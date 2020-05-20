@@ -1,0 +1,4 @@
+This file contains the implementation of Linear Regression Algorithm , on an Ecommerce Customer database.
+before running this file make sure you have jupyter and all the libraries installed.
+also keep the datasheet and the script in same folder.
+Note : this script is a part of ML capstone project under the course Refactored_Py_DS_ML_Bootcamp-master (Udemy).
